@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋
+실용적이고 효율적인 개발이 너무 좋은 사람
+만들고 싶은게 너무 많은데 이런저런 프로젝트 같이 해보실 분 구합니다!
+
+**<주요 프로젝트>**
+- 화학적 유기적 요소를 고려한 맥주 양조 시뮬레이션 프로그램 '스마트 브루잉 시뮬레이터'
+- AI 컨텐츠 생성을 탑재한 SNS 통합 자동화 관리 서비스 '소셜다모아'
+- 파인만 학습법 기반, 사용자 스스로의 학습을 도와주는 AI 친구 'My Study Mate'
+- 여러 사용자가 동시에 게임 지도 위에 그림을 그리는 사용자 참여형 멀티 공간 'Paint On Lumia'
 
 <!--
 **r-uwu/r-uwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
